@@ -1,4 +1,4 @@
-# recommender_system_ibcf
+# Movie_Recommender_IBCF
 A movie recommender system based in user ratings using Item-based collaborative filtering
 
 Data obtained from movie_lens.org 
